@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p58709-e802860.adobeaemcloud.com/bin/franklin.delivery/nimithshetty175959/nissan-poc/main"
+    url: "https://author-p78502-e680953.adobeaemcloud.com/bin/franklin.delivery/nimithshetty175959/nissan-poc/main"
     type: "markup"
     suffix: ".html"
